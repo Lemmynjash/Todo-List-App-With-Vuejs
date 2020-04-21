@@ -1,4 +1,4 @@
-# vueautosave
+# Vue Todo List App
 
 ## Project setup
 ```
